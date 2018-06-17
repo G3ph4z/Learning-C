@@ -7,4 +7,5 @@ First of all, you have to install GCC.
 
 On Ubuntu:
 > sudo apt-get update
+
 > sudo apt-get install build-essential 
