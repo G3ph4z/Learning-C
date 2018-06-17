@@ -9,3 +9,19 @@ On Ubuntu:
 > sudo apt-get update
 
 > sudo apt-get install build-essential 
+
+
+On CentOS:
+> sudo yum update
+
+> sudo yum groupinstall "Development Tools"
+
+
+On Fedora:
+> sudo dnf update
+
+> sudo dnf groupinstall "Development Tools"
+
+
+On OSX:
+> You have to install XCode from AppStore
