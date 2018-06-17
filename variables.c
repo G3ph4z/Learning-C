@@ -25,10 +25,13 @@
 
 int main()
 {
+	/* variable Declarations */
 	int count, number, star;	/* three integer vartiables */
 	float percent, total;		/* two float variables */
 
-	count = 1;
+	/* Initializing Variables */
+	count = 0; /* Store 0 in count */
 
-	printf("Count: %i \n", count);
+	/* You can also initalize a variable when it's declared */
+	int newcount = 1; /* Store 1 in newcount */
 }
